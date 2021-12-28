@@ -10,7 +10,7 @@ Sou um estudante do ensino médio aprendendo a programar.
 **Seja Bem vindo** ao meu ➡️repositório de projetos⬅️
 - 🔭 Inicialmente, as habilidades que eu estou visando aprender, são:
 
-[![Skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Joaovictor517/JavaScript)
 
 [![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 
