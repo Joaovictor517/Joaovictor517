@@ -8,12 +8,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovictor517&show_icons=true&theme=dark)
 
-
-**Seja Bem vindo** ao meu ➡️repositório de projetos⬅️
-- 🔭 Inicialmente, as tecnologias que eu estou visando aprender, são:
-
-[![Skills](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)](https://github.com/Joaovictor517/Java)
-
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
